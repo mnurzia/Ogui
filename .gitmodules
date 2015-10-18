@@ -1,0 +1,3 @@
+[submodule "Ogar"]
+	path = Ogar
+	url = https://github.com/OgarProject/Ogar
