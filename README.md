@@ -16,13 +16,15 @@ Ogar can:
 
 ### Unix (Linux, Mac)
 
-1. Go to your favorite command line, and run: ```git clone https://github.com/maxmillion18/Ogui/; cd Ogui;```
-2. Run GUI.py (you may need root privileges)
-3. Have fun!
+1. Install node, ws (for node), and pexpect (for python)
+2. Go to your favorite command line, and run: ```git clone https://github.com/maxmillion18/Ogui/; cd Ogui;```
+3. Run GUI.py (you may need root privileges)
+4. Have fun!
 
 ### Windows
 
 1. Install node and npm, then install the npm module ws.
-2. Download Ogui's Zip file
-3. CD into the zip file
-4. Run GUI.py (again, root/administrator privileges may be needed)
+2. Install the python module ```pexpect```
+3. Download Ogui's Zip file
+4. CD into the zip file
+5. Run GUI.py (again, root/administrator privileges may be needed)
